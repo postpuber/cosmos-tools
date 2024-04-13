@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -s https://raw.githubusercontent.com/Staketab/node-tools/main/logo.sh | bash
+curl -s https://raw.githubusercontent.com/postpuber/cosmos-tools/main/auto-withdraw-delegate/scr/logo.sh | bash
 
 RED="\033[31m"
 YELLOW="\033[33m"
